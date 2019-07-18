@@ -78,7 +78,7 @@ const Navbar = () => (
     <Brand>
       <a href='/'>
         <Favicon src={webdev} alt="webdev" />
-        <Text>Brandon Tsai Test</Text>
+        <Text>Brandon Tsai</Text>
       </a>
     </Brand>
     <LinkItems>
